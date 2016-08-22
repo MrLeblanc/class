@@ -31,25 +31,26 @@
 * AJAX
   等等...
 
-## $
+### $()
 
-## .attr
+### .attr
 
 * .attr() 方法设置或返回被选元素的属性值
 
-## .index()
+### .index()
 
-## .click()
+### .click()
 
-## .mouseover() .mouseout()  ?  .mouseenter() .mouseleave()
+### .mouseover() .mouseout()  ?  .mouseenter() .mouseleave()
 
-## .siblings()
+### .siblings()
 
-## .addClass() .removeClass()
+### .addClass() .removeClass()
 
-## .eq()
+### .eq()
 
 ## 复习
+
 1. $("选择器")  可以获取节点
 2. 获取节点的方法：eq find siblings
 3. 获取索引值:index
@@ -86,3 +87,35 @@
 1. 不需要为每一个元素都添加监听事件而是通过委托给父元素来处理。这样就减少了内存，性能提高了
 
 2. 可以方便动态添加元素。不需要再为新添加的元素重新绑定事件。
+
+### jQuery中j将事件委托给父级元素的方法.parent()
+
+### .append()方法在被选元素的结尾插入指定内容。
+
+1. HTML 元素
+2. jQuery 对象
+3. DOM 元素
+
+### remove() 方法移除被选元素，包括所有的文本和子节点。
+
+### event.pageX 属性返回鼠标指针的位置，相对于文档的左边缘。
+
+### event.pageY 属性返回鼠标指针的位置，相对于文档的上边缘。
+
+### text() 方法设置被选元素的文本内容。
+
+## 变量
+
+### 变量命名规则
+
+1. 必须以字母、下划线或美元符号开头，后面可以跟字母、下划线、美元符号和数字。
+
+2. 变量名区分大小写，如:A与a是两个不同变量。
+
+3. 不允许使用JavaScript关键字和保留字做变量名。
+
+![关键字和保留字](http://img.mukewang.com/529c07c000014f5103080447.jpg)
+
+## 数据类型
+
+* 字符串、数字、布尔、数组、对象、Null、Undefined
