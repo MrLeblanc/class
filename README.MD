@@ -12,7 +12,7 @@
 
  ```js
   <script>
-      alert("hello javascript!")
+      alert("hello JavaScript!")
   </script>
  ```
 
@@ -27,6 +27,5 @@
 * CSS 操作
 * HTML 事件函数
 * JavaScript 特效和动画
-* HTML DOM 遍历和修改
+* HTML DOM 的修改
 * AJAX
-* Utilities
