@@ -193,11 +193,70 @@ if (条件)
 * 字符串、数字、布尔、数组、对象、Null、Undefined
 
 
+## 数学对象
+
+* Math.floor(number)  舍弃小数点后面的数字取整数
+
+* Math.ceil(number)  进位取整数
+
+* Math.random()  返回一个随机浮点数(小于1大于零的随机小数)
+
+## 数组
+
+```js
+  var X = ["x","xx","xxx","xxxx"...]
+  X[n]
+  X.length;
+  X.push
+```
 
 
-
-## for循环
+## for循环遍历数组
 
 ```js
   for(var i = 0;i < xx;i++){}
 ```
+
+## 形参，实参
+
+## switch
+
+```js
+  switch(n){
+    case "x": ............;break;
+    ......
+  }
+```
+
+## window对象
+
+* alert
+* confirm
+* prompt
+
+## 获取节点
+
+* document.getElementsById("")
+* document.getElementsByClassName("") 需要用for循环遍历才可选中需要的节点
+* document.getElementsByTagName("") 需要用for循环遍历才可选中需要的节点
+
+## 添加节点
+
+* document.creatElement("") 添加一个对象
+* document.creatTextNode("") 添加一个文本的内容
+* event.target 获取当前选中的节点
+* removeChild
+* parentNode
+
+## 事件
+
+* addEventListener("事件",function(){},false);
+
+## 数组的方法
+
+* .split("x") 将字符串以x为分割点分割为一个数组
+
+## 函数
+
+* arguments
+* prototype  像对象添加属性和方法
