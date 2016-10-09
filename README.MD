@@ -14,6 +14,88 @@
 * br
 * hr
 
+### 背景属性
+* background	简写属性，作用是将背景属性设置在一个声明中。
+* background-color	设置元素的背景颜色。
+* background-image	把图像设置为背景。
+* background-position	设置背景图像的起始位置。
+* background-repeat	设置背景图像是否及如何重复。
+
+### 文本属性
+
+* color	设置文本颜色
+* line-height	设置行高。
+* letter-spacing	设置字符间距。
+* text-align	对齐元素中的文本。
+* text-indent	缩进元素中文本的首行。
+
+### 字体属性
+
+* font-family	设置字体系列。
+* font-size	设置字体的尺寸。
+* font-weight	设置字体的粗细。
+
+### a链接
+
+* a:link - 普通的、未被访问的链接
+* a:visited - 用户已访问的链接
+* a:hover - 鼠标指针位于链接的上方
+* a:active - 链接被点击的时刻
+
+
+### 鼠标访问时的样式cursor
+
+* auto	默认。浏览器设置的光标。
+* crosshair	光标呈现为十字线。
+* pointer	光标呈现为指示链接的指针（一只手）
+* move	此光标指示某对象可被移动。
+* e-resize	此光标指示矩形框的边缘可被向右（东）移动。
+* ne-resize	此光标指示矩形框的边缘可被向上及向右移动（北/东）。
+* nw-resize	此光标指示矩形框的边缘可被向上及向左移动（北/西）。
+* n-resize	此光标指示矩形框的边缘可被向上（北）移动。
+* se-resize	此光标指示矩形框的边缘可被向下及向右移动（南/东）。
+* sw-resize	此光标指示矩形框的边缘可被向下及向左移动（南/西）。
+* s-resize	此光标指示矩形框的边缘可被向下移动（南）。
+* w-resize	此光标指示矩形框的边缘可被向左移动（西）。
+* text	此光标指示文本。
+* wait	此光标指示程序正忙（通常是一只表或沙漏）。
+* help	此光标指示可用的帮助（通常是一个问号或一个气球）。
+
+### 列表属性
+
+list-style
+
+### css框模型（盒模型）
+
+![http://www.w3school.com.cn/i/ct_boxmodel.gif]()
+
+### 边框
+
+border
+
+### 外边距合并
+
+![http://www.w3school.com.cn/i/ct_css_margin_collapsing_example_1.gif]()
+
+### 解决float问题
+
+![http://www.w3school.com.cn/i/ct_css_positioning_floating_clear_div.gif]()
+
+### 选择器
+* 元素选择器
+类选择器
+ID选择器
+选择器组
+后代选择器
+子元素选择器 >
+相邻兄弟选择器 ＋
+
+### 居中
+
+### 元素属性
+
+### 透明度opacity
+
 
 
 
