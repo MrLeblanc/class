@@ -67,7 +67,7 @@ list-style
 
 ### css框模型（盒模型）
 
-![http://www.w3school.com.cn/i/ct_boxmodel.gif]()
+![](http://www.w3school.com.cn/i/ct_boxmodel.gif)
 
 ### 边框
 
@@ -75,11 +75,11 @@ border
 
 ### 外边距合并
 
-![http://www.w3school.com.cn/i/ct_css_margin_collapsing_example_1.gif]()
+![](http://www.w3school.com.cn/i/ct_css_margin_collapsing_example_1.gif)
 
 ### 解决float问题
 
-![http://www.w3school.com.cn/i/ct_css_positioning_floating_clear_div.gif]()
+![](http://www.w3school.com.cn/i/ct_css_positioning_floating_clear_div.gif)
 
 ### 选择器
 * 元素选择器
