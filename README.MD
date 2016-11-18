@@ -344,3 +344,8 @@ if (条件)
 
 * arguments
 * prototype  像对象添加属性和方法
+
+
+
+
+![](http://img.mukewang.com/53e198540001b66404860353.jpg)
